@@ -1,6 +1,6 @@
 {
   "name": "Physicgame",
   "tagline": "html5 physical game",
-  "body": "\r\n\r\n\r\n<html>\r\n<head>\r\n\r\n<title>Untitled Document</title>\r\n\r\n\r\n\r\n  </style>\r\n</head>\r\n\r\n<body>\r\n\r\n\r\n<iframe  id=\"all\" src =\"http://www.obsessionxgames.com/ball/ball_web/index.html\" width=\"800\" height=\"600\" frameborder=\"0\">\r\n</iframe>\r\n\r\n\r\n\r\n\r\n\r\n</body>\r\n</html>\r\n",
+  "body": "http://www.mobilezdeveloper.com/make-simple-physic-game-in-construct-2/",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
